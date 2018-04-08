@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cpliakas/git-wrapper": "^1.7",
+        "monolog/monolog": "^1.23"
+    }
+}
